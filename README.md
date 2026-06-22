@@ -19,17 +19,10 @@
 ```
 ## Estructura
 src/main/java/com/foodstore/
-
 ├── config/      → ConexionDB
-
 ├── dao/         → Interfaces e implementaciones JDBC
-
 ├── entities/    → Modelo (Base, Categoria, Producto, Usuario, Pedido, DetallePedido)
-
 ├── enums/       → Rol, Estado, FormaPago
-
 ├── exception/   → EntidadNoEncontradaException, ReglaNegocioException
-
 ├── service/     → Lógica de negocio
-
 └── Main.java    → Punto de entrada y menú de consola
