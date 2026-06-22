@@ -86,3 +86,4 @@ public class PedidoService {
         pedidoDAO.eliminar(id);
     }
 }
+// Servicio de Pedido con manejo de detalles y total
