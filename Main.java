@@ -382,3 +382,4 @@ public class Main {
         return scanner.nextLine().trim().equalsIgnoreCase("S");
     }
 }
+// Punto de entrada - menus CRUD por consola
