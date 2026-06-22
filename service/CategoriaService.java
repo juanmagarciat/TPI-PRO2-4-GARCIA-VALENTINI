@@ -54,3 +54,4 @@ public class CategoriaService {
         categoriaDAO.eliminar(id);
     }
 }
+// Servicio de Categoria con validaciones de negocio

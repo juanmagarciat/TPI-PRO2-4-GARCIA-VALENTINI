@@ -81,3 +81,4 @@ public class ProductoService {
             throw new ReglaNegocioException("El stock no puede ser negativo.");
     }
 }
+// Servicio de Producto con validacion de precio y stock
