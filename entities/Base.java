@@ -55,3 +55,4 @@ public abstract class Base {
         return Objects.hash(id);
     }
 }
+// Clase base abstracta del modelo de dominio
