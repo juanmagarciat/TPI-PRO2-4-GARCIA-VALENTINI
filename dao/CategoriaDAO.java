@@ -11,3 +11,4 @@ public interface CategoriaDAO {
     void actualizar(Categoria categoria) throws SQLException;
     void eliminar(Long id) throws SQLException;
 }
+// Interface DAO de Categoria

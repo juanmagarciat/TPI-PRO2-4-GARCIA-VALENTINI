@@ -95,3 +95,4 @@ public class CategoriaDAOImpl implements CategoriaDAO {
         );
     }
 }
+// Implementacion JDBC de CategoriaDAO

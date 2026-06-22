@@ -13,3 +13,4 @@ public interface ProductoDAO {
     void actualizarStock(Long id, int nuevoStock) throws SQLException;
     void eliminar(Long id) throws SQLException;
 }
+// Interface DAO de Producto
