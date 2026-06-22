@@ -13,3 +13,4 @@ public interface PedidoDAO {
     void actualizarEstado(Long id, Estado estado) throws SQLException;
     void eliminar(Long id) throws SQLException;
 }
+// Interface DAO de Pedido

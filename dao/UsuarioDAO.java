@@ -12,3 +12,4 @@ public interface UsuarioDAO {
     void actualizar(Usuario usuario) throws SQLException;
     void eliminar(Long id) throws SQLException;
 }
+// Interface DAO de Usuario
