@@ -1,4 +1,4 @@
-# 🍔 Food Store — Sistema de Gestión de Tienda de Comidas
+# Food Store — Sistema de Gestión de Tienda de Comidas
 
 Sistema de consola desarrollado en Java con JDBC puro y MySQL. El proyecto implementa una arquitectura en capas (Entidades, DAO, Servicios) para garantizar una correcta separación de responsabilidades y cohesión.
 
