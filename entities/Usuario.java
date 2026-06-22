@@ -61,3 +61,4 @@ public class Usuario extends Base {
                 .formatted(id, nombre, apellido, mail, celular, rol);
     }
 }
+// Entidad Usuario - hereda de Base
