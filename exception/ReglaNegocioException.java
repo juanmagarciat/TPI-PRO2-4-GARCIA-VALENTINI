@@ -6,3 +6,4 @@ public class ReglaNegocioException extends Exception {
         super(message);
     }
 }
+// Excepcion propia - regla de negocio violada

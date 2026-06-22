@@ -6,3 +6,4 @@ public enum Estado {
     TERMINADO,
     CANCELADO
 }
+// Enum Estado del pedido

@@ -5,3 +5,4 @@ public enum FormaPago {
     TRANSFERENCIA,
     EFECTIVO
 }
+// Enum FormaPago del pedido

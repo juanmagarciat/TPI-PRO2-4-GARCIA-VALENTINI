@@ -6,3 +6,4 @@ public class EntidadNoEncontradaException extends Exception {
         super(message);
     }
 }
+// Excepcion propia - entidad no encontrada
