@@ -44,10 +44,6 @@ public class Pedido extends Base implements Calculable {
         this.total = BigDecimal.ZERO;
     }
 
-    /**
-     * Método obligatorio según la consigna.
-     * Crea el DetallePedido internamente y lo agrega a la lista.
-     */
     public void addDetallePedido(int cantidad, Double precio, Producto producto) {
         DetallePedido detalle = new DetallePedido(
                 this, producto, cantidad, BigDecimal.valueOf(precio));
