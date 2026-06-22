@@ -45,3 +45,4 @@ public class Categoria extends Base {
                 .formatted(id, nombre, descripcion);
     }
 }
+// Entidad Categoria - hereda de Base

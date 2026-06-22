@@ -70,3 +70,4 @@ public class Producto extends Base {
                 .formatted(id, nombre, precio, stock, disponible, cat);
     }
 }
+// Entidad Producto - hereda de Base
